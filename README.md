@@ -1,2 +1,1 @@
-https://solecita.github.io/solecita/
- 
+https://github.com/USUARIO/solecita
